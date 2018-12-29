@@ -1,0 +1,10 @@
+name: MIRV
+version: ${project.version}
+main: me.shakeforprotein.mirv.MIRV
+authors: [shakeforprotein]
+
+permissions:
+  mirv.launch:
+    default: false
+  mirv.torch:
+    default: true
